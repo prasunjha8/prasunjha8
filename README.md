@@ -1,5 +1,14 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasunjha8/prasunjha8/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasunjha8/prasunjha8/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/prasunjha8/prasunjha8/output/github-snake.svg" />
+</picture>
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Prasun%20Jha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20Reinforcement%20Learning%20%7C%20Computer%20Vision&descSize=16&descAlignY=60" alt="Prasun Jha" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Vision-guided+RL+for+assistive+robot+navigation;ROS+2+%7C+Gazebo+%7C+Nav2+%7C+PyTorch;Build+it.+Simulate+it.+Measure+it.+Break+it.+Improve+it." alt="Typing animation"/>
